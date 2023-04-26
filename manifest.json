@@ -1,0 +1,20 @@
+{
+    "name": "PROADE",
+    "short_name": "PROADE",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#333333",
+    "icons": [
+        {
+            "src": "proade.jpg",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "proade.jpg",
+            "sizes": "512x512",
+            "types": "image/png"
+        }
+    ]
+}
